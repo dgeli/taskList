@@ -1,5 +1,5 @@
 # TaksList
-Proyecto Ionic
+Ionic Project
 
 Creating and editing task lists to learn how Local Storage and the AlertController component work
 
