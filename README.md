@@ -1,7 +1,7 @@
 # TaksList
 Proyecto Ionic
 
-Creación y edición de listas de tareas para conocer el funcionamiento de Local Storage y de componente AlertController
+Creating and editing task lists to learn how Local Storage and the AlertController component work
 
 
 ## Development server
